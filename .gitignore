@@ -1,0 +1,17 @@
+# dipendenze
+/node_modules
+
+# build Next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Netlify
+.netlify/
+
+# ambiente e sistema
+.env*
+!.env.example
+.DS_Store
+npm-debug.log*
